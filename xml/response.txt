@@ -1,0 +1,1176 @@
+<?xml version="1.0" encoding="GBK" standalone="yes"?>
+<PackageList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Package>
+		<Header>
+			<version>2</version>
+			<RequestType>106</RequestType>
+			<InsureType>100</InsureType>
+			<SessionId>201607181630158683</SessionId>
+			<SellerId>1465959568477</SellerId>
+			<SendTime>2018-12-27 19:33:33</SendTime>
+			<Status>100</Status>
+			<ErrorMessage></ErrorMessage>
+		</Header>
+		<Sign>dX1tikbC2g-Rhu4vA-k5u2jtdOZBF49giXE2rmH_w5sqKYgWZHXvLIazbXEKdPoH-CapYoVXuv0hSZ_iiiI3nnNbRQPolA0r7-5BSGVwUQMtA7ZEgdSmL0W_296L0h2Uduc2i2jBPR3zPl43BbmBVdbcVh7PCVmLO_3cCwAw4cw</Sign>
+		<Response>
+			<packageType>optional</packageType>
+			<compreOrg>null</compreOrg>
+			<isCompreX>null</isCompreX>
+			<TagsList>
+				<Tags type="insuredInfo">
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">insuredIdNo</Definition>
+						<Definition name="label">被保险人证件号码</Definition>
+						<Definition name="value">412728199211130053</Definition>
+						<Definition name="premium"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">insuredEmail</Definition>
+						<Definition name="label">被保险人邮箱</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="premium"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">insuredName</Definition>
+						<Definition name="label">被保险人姓名</Definition>
+						<Definition name="value">看思</Definition>
+						<Definition name="premium"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">insuredMobile</Definition>
+						<Definition name="label">被保险人手机</Definition>
+						<Definition name="value">17310563002</Definition>
+						<Definition name="premium"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">input</Definition>
+						<Definition name="key">insuredIdStartDate</Definition>
+						<Definition name="label">证件号起始日期</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="data"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">input</Definition>
+						<Definition name="key">insuredIdEndDate</Definition>
+						<Definition name="label">证件号终止日期</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="data"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">input</Definition>
+						<Definition name="key">insuredIdAddress</Definition>
+						<Definition name="label">证件号地址</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="data"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium"></Definition>
+					</Tag>
+				</Tags>
+				<Tags type="applicantInfo">
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">applicantIdNo</Definition>
+						<Definition name="label">投保人证件号码</Definition>
+						<Definition name="value">412728199211130053</Definition>
+						<Definition name="premium"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">applicantEmail</Definition>
+						<Definition name="label">投保人邮箱</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="premium"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">applicantName</Definition>
+						<Definition name="label">投保人姓名</Definition>
+						<Definition name="value">看思</Definition>
+						<Definition name="premium"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">applicantMobile</Definition>
+						<Definition name="label">被保险人手机</Definition>
+						<Definition name="value">17310563002</Definition>
+						<Definition name="premium"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">input</Definition>
+						<Definition name="key">applicantIdStartDate</Definition>
+						<Definition name="label">证件号起始日期</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="data"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">input</Definition>
+						<Definition name="key">applicantIdEndDate</Definition>
+						<Definition name="label">证件号终止日期</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="data"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">input</Definition>
+						<Definition name="key">applicantIdAddress</Definition>
+						<Definition name="label">证件号地址</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="data"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">input</Definition>
+						<Definition name="key">agencyName</Definition>
+						<Definition name="label">代办人姓名</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="data"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">input</Definition>
+						<Definition name="key">agencyId</Definition>
+						<Definition name="label">代办人证件号</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="data"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">input</Definition>
+						<Definition name="key">agencyIDStartTime</Definition>
+						<Definition name="label">代办人身份证起始日期</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="data"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">input</Definition>
+						<Definition name="key">agencyIDEndTime</Definition>
+						<Definition name="label">代办人身份证终止日期</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="data"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium"></Definition>
+					</Tag>
+				</Tags>
+				<Tags type="vehicleInfo">
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">cityCode</Definition>
+						<Definition name="label">城市代码</Definition>
+						<Definition name="value">15585203</Definition>
+						<Definition name="premium"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">licenseNo</Definition>
+						<Definition name="label">车牌号</Definition>
+						<Definition name="value">冀DQQWVL</Definition>
+						<Definition name="premium"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">noLicenseFlag</Definition>
+						<Definition name="label">新车未上牌</Definition>
+						<Definition name="value">0</Definition>
+						<Definition name="premium"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">vehicleModelName</Definition>
+						<Definition name="label">品牌型号</Definition>
+						<Definition name="value">酷派COUPE 2.7L轿车</Definition>
+						<Definition name="premium"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">seats</Definition>
+						<Definition name="label">座位数</Definition>
+						<Definition name="value">4</Definition>
+						<Definition name="premium"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">isOcr</Definition>
+						<Definition name="label">是否采集信息</Definition>
+						<Definition name="value">0</Definition>
+						<Definition name="premium"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">vehicleId</Definition>
+						<Definition name="label">车辆代码</Definition>
+						<Definition name="value">XDAABI0005</Definition>
+						<Definition name="premium">0</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">firstRegisterDate</Definition>
+						<Definition name="label">注册登记日期</Definition>
+						<Definition name="value">2017-07-14</Definition>
+						<Definition name="premium"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">engineNo</Definition>
+						<Definition name="label">发动机号</Definition>
+						<Definition name="value">ENG8RJNH11111STM</Definition>
+						<Definition name="premium"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">vehicleFrameNo</Definition>
+						<Definition name="label">车架号</Definition>
+						<Definition name="value">VNNUTU51111WLBA4R</Definition>
+						<Definition name="premium"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">specialCarFlag</Definition>
+						<Definition name="label">是否过户车</Definition>
+						<Definition name="value">0</Definition>
+						<Definition name="premium">0</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">specialCarDate</Definition>
+						<Definition name="label">过户日期</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="premium"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">vehicleInvoiceNo</Definition>
+						<Definition name="label">新车购置发票号</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="premium"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">vehicleInvoiceDate</Definition>
+						<Definition name="label">发票开具日期</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="premium"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">renewalFlag</Definition>
+						<Definition name="label">是否续保数据</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="premium"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+				</Tags>
+				<Tags type="ownerInfo">
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">ownerName</Definition>
+						<Definition name="label">车主</Definition>
+						<Definition name="value">看思</Definition>
+						<Definition name="premium"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">ownerIdNo</Definition>
+						<Definition name="label">证件号</Definition>
+						<Definition name="value">412728199211130053</Definition>
+						<Definition name="premium"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">ownerMobile</Definition>
+						<Definition name="label">手机号码</Definition>
+						<Definition name="value">17310563002</Definition>
+						<Definition name="premium"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">ownerEmail</Definition>
+						<Definition name="label">邮箱</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="premium"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">input</Definition>
+						<Definition name="key">ownerIdStartDate</Definition>
+						<Definition name="label">证件号起始日期</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="data"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">input</Definition>
+						<Definition name="key">ownerIdEndDate</Definition>
+						<Definition name="label">证件号终止日期</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="data"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">input</Definition>
+						<Definition name="key">ownerIdAddress</Definition>
+						<Definition name="label">证件号地址</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="data"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">input</Definition>
+						<Definition name="key">isDataAcquisition</Definition>
+						<Definition name="label">是否采集(反洗钱)</Definition>
+						<Definition name="value">0</Definition>
+						<Definition name="data"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium"></Definition>
+					</Tag>
+				</Tags>
+				<Tags type="optional">
+					<Tag>
+						<Definition name="type">select</Definition>
+						<Definition name="key">cov_200</Definition>
+						<Definition name="label">机动车损失险</Definition>
+						<Definition name="value">0.00</Definition>
+						<Definition name="range">0.00,0.00</Definition>
+						<Definition name="data">
+							<![CDATA[不投保:0.00;投保:168824.00]]>
+						</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium">0</Definition>
+						<Definition name="relations">cov_911</Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">select</Definition>
+						<Definition name="key">cov_600</Definition>
+						<Definition name="label">第三者责任险</Definition>
+						<Definition name="value">500000.00</Definition>
+						<Definition name="data">
+							<![CDATA[不投保:0.00;5万:50000.00;10万:100000.00;15万:150000.00;20万:200000.00;30万:300000.00;50万:500000.00;100万:1000000.00;150万:1500000.00;200万:2000000.00;300万:3000000.00;500万:5000000.00]]>
+						</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium">90113</Definition>
+						<Definition name="relations">cov_912</Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">select</Definition>
+						<Definition name="key">cov_701</Definition>
+						<Definition name="label">司机责任险</Definition>
+						<Definition name="value">10000.00</Definition>
+						<Definition name="data">
+							<![CDATA[不投保:0.00;1万/座:10000.00;2万/座:20000.00;3万/座:30000.00;4万/座:40000.00;5万/座:50000.00;10万/座:100000.00;15万/座:150000.00;20万/座:200000.00]]>
+						</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium">2250</Definition>
+						<Definition name="relations">cov_928</Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">select</Definition>
+						<Definition name="key">cov_702</Definition>
+						<Definition name="label">乘客责任险</Definition>
+						<Definition name="value">10000.00</Definition>
+						<Definition name="data">
+							<![CDATA[不投保:0.00;1万/座:10000.00;2万/座:20000.00;3万/座:30000.00;4万/座:40000.00;5万/座:50000.00;10万/座:100000.00;15万/座:150000.00;20万/座:200000.00]]>
+						</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium">4388</Definition>
+						<Definition name="relations">cov_929</Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">select</Definition>
+						<Definition name="key">cov_500</Definition>
+						<Definition name="label">全车盗抢险</Definition>
+						<Definition name="value">0.00</Definition>
+						<Definition name="range">0,168824.00</Definition>
+						<Definition name="data">
+							<![CDATA[不投保:0.00;投保:168824.00]]>
+						</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium">0</Definition>
+						<Definition name="relations">cov_921</Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">select</Definition>
+						<Definition name="key">cov_231</Definition>
+						<Definition name="label">玻璃破碎险</Definition>
+						<Definition name="value">0</Definition>
+						<Definition name="data">
+							<![CDATA[不投保:0;国产玻璃:1;进口玻璃:2]]>
+						</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium">0</Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">select</Definition>
+						<Definition name="key">cov_310</Definition>
+						<Definition name="label">自燃损失险</Definition>
+						<Definition name="value">0.00</Definition>
+						<Definition name="data">
+							<![CDATA[不投保:0.00;投保:168824.00]]>
+						</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium">0</Definition>
+						<Definition name="relations">cov_930</Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">select</Definition>
+						<Definition name="key">cov_210</Definition>
+						<Definition name="label">车身划痕险</Definition>
+						<Definition name="value">0.00</Definition>
+						<Definition name="data">
+							<![CDATA[不投保:0.00;2000:2000.00;5000:5000.00;10000:10000.00]]>
+						</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium">0</Definition>
+						<Definition name="relations">cov_922</Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">select</Definition>
+						<Definition name="key">cov_321</Definition>
+						<Definition name="label">指定修理厂险</Definition>
+						<Definition name="value">0.00</Definition>
+						<Definition name="data">
+							<![CDATA[不投保:0.00;投保:30.00]]>
+						</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium">0</Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">select</Definition>
+						<Definition name="label">不计免赔险-车损</Definition>
+						<Definition name="key">cov_911</Definition>
+						<Definition name="value">0</Definition>
+						<Definition name="premium">0</Definition>
+						<Definition name="data">
+							<![CDATA[不可投保:0]]>
+						</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">select</Definition>
+						<Definition name="label">不计免赔险-三责</Definition>
+						<Definition name="key">cov_912</Definition>
+						<Definition name="value">1</Definition>
+						<Definition name="data">
+							<![CDATA[不投保:0;投保:1]]>
+						</Definition>
+						<Definition name="premium">13517</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">select</Definition>
+						<Definition name="label">不计免赔险-司机</Definition>
+						<Definition name="key">cov_928</Definition>
+						<Definition name="value">1</Definition>
+						<Definition name="data">
+							<![CDATA[不投保:0;投保:1]]>
+						</Definition>
+						<Definition name="premium">338</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">select</Definition>
+						<Definition name="label">不计免赔险-乘客</Definition>
+						<Definition name="key">cov_929</Definition>
+						<Definition name="value">1</Definition>
+						<Definition name="data">
+							<![CDATA[不投保:0;投保:1]]>
+						</Definition>
+						<Definition name="premium">658</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">select</Definition>
+						<Definition name="label">不计免赔险-盗抢</Definition>
+						<Definition name="key">cov_921</Definition>
+						<Definition name="value">0</Definition>
+						<Definition name="data">
+							<![CDATA[不可投保:0]]>
+						</Definition>
+						<Definition name="premium">0</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">select</Definition>
+						<Definition name="label">不计免赔险-划痕</Definition>
+						<Definition name="key">cov_922</Definition>
+						<Definition name="value">0</Definition>
+						<Definition name="data">
+							<![CDATA[不可投保:0]]>
+						</Definition>
+						<Definition name="premium">0</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">select</Definition>
+						<Definition name="label">不计免赔险-自燃损失</Definition>
+						<Definition name="key">cov_930</Definition>
+						<Definition name="value">0</Definition>
+						<Definition name="data">
+							<![CDATA[不可投保:0]]>
+						</Definition>
+						<Definition name="premium">0</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">select</Definition>
+						<Definition name="label">不计免赔险-发动机涉水</Definition>
+						<Definition name="key">cov_931</Definition>
+						<Definition name="value">0</Definition>
+						<Definition name="data">
+							<![CDATA[不可投保:0]]>
+						</Definition>
+						<Definition name="premium">0</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">select</Definition>
+						<Definition name="label">不计免赔险-精神损害</Definition>
+						<Definition name="key">cov_932</Definition>
+						<Definition name="value">0</Definition>
+						<Definition name="data">
+							<![CDATA[不可投保:0]]>
+						</Definition>
+						<Definition name="premium">0</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">select</Definition>
+						<Definition name="label">不计免赔险-新增设备</Definition>
+						<Definition name="key">cov_933</Definition>
+						<Definition name="value">0</Definition>
+						<Definition name="data">
+							<![CDATA[不可投保:0]]>
+						</Definition>
+						<Definition name="premium">0</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">select</Definition>
+						<Definition name="key">cov_291</Definition>
+						<Definition name="label">发动机涉水险</Definition>
+						<Definition name="value">0</Definition>
+						<Definition name="data">
+							<![CDATA[不投保:0;投保:1]]>
+						</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium">0</Definition>
+						<Definition name="relations">cov_931</Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">select</Definition>
+						<Definition name="key">cov_640</Definition>
+						<Definition name="label">精神损害险</Definition>
+						<Definition name="value">0.00</Definition>
+						<Definition name="data">
+							<![CDATA[不投保:0.00;1万:10000.00;2万:20000.00;5万:50000.00;10万:100000.00;15万:150000.00;20万:200000.00;30万:300000.00;50万:500000.00;100万:1000000.00]]>
+						</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium">0</Definition>
+						<Definition name="relations">cov_932</Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">select</Definition>
+						<Definition name="key">cov_734</Definition>
+						<Definition name="label">修理期间费用补偿险</Definition>
+						<Definition name="value">0</Definition>
+						<Definition name="data">
+							<![CDATA[不投保:0;投保:1]]>
+						</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium">0</Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">text</Definition>
+						<Definition name="key">cov_731</Definition>
+						<Definition name="label">修理期间费用补偿险</Definition>
+						<Definition name="value">0</Definition>
+						<Definition name="data"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium">0</Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">text</Definition>
+						<Definition name="key">cov_732</Definition>
+						<Definition name="label">修理期间费用补偿险</Definition>
+						<Definition name="value">0</Definition>
+						<Definition name="data"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium">0</Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">text</Definition>
+						<Definition name="key">cov_735</Definition>
+						<Definition name="label">修理期间费用补偿险</Definition>
+						<Definition name="value">0.00</Definition>
+						<Definition name="data"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium">0</Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">select</Definition>
+						<Definition name="key">cov_733</Definition>
+						<Definition name="label">无法找到第三方险</Definition>
+						<Definition name="value">0</Definition>
+						<Definition name="data">
+							<![CDATA[不投保:0;投保:1]]>
+						</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium">0</Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">select</Definition>
+						<Definition name="key">cov_650</Definition>
+						<Definition name="label">新增设备险</Definition>
+						<Definition name="value">0</Definition>
+						<Definition name="data">
+							<![CDATA[不投保:0;投保:1]]>
+						</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium">0</Definition>
+						<Definition name="relations">cov_933</Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">select</Definition>
+						<Definition name="key">cov_666</Definition>
+						<Definition name="label">机动车第三者责任保险法定节假日限额翻倍险</Definition>
+						<Definition name="value">0.00</Definition>
+						<Definition name="data">
+							<![CDATA[不投保:0.00;5万:50000.00;10万:100000.00;15万:150000.00;20万:200000.00;30万:300000.00;50万:500000.00;100万:1000000.00;150万:1500000.00;200万:2000000.00;300万:3000000.00;500万:5000000.00]]>
+						</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium">0</Definition>
+						<Definition name="relations"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">lastClaimText</Definition>
+						<Definition name="label">上年出险信息</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="data"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">radio</Definition>
+						<Definition name="label">交强险</Definition>
+						<Definition name="key">forceFlag</Definition>
+						<Definition name="value">1</Definition>
+						<Definition name="data">
+							<![CDATA[投保:1;不投保:0]]>
+						</Definition>
+						<Definition name="premium">0</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">bizTotalPremium</Definition>
+						<Definition name="label">商业总保费</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="premium">111264</Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">standardPremium</Definition>
+						<Definition name="label">市场价</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="premium">429182.22</Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">totalPremium</Definition>
+						<Definition name="label">网购价</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="premium">386264</Definition>
+					</Tag>
+				</Tags>
+				<Tags type="deviceList">
+					<Tag>
+						<Definition name="label"></Definition>
+						<Definition name="realPremium"></Definition>
+						<Definition name="value"></Definition>
+						<Definition name="data"></Definition>
+						<Definition name="premium"></Definition>
+						<Definition name="range">3</Definition>
+					</Tag>
+				</Tags>
+				<Tags type="deadline">
+					<Tag>
+						<Definition name="type">date</Definition>
+						<Definition name="label">商业险终保日期</Definition>
+						<Definition name="key">bizEndDate</Definition>
+						<Definition name="value">2019-12-27</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">date</Definition>
+						<Definition name="label">交强险终保日期</Definition>
+						<Definition name="key">forceEndDate</Definition>
+						<Definition name="value">2019-12-27</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">date</Definition>
+						<Definition name="label">商业险终保日期</Definition>
+						<Definition name="key">insuEndDateHM</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">date</Definition>
+						<Definition name="label">交强险终保日期</Definition>
+						<Definition name="key">insuTraEndDateHM</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">date</Definition>
+						<Definition name="label">商业险起保日期</Definition>
+						<Definition name="key">bizBeginDate</Definition>
+						<Definition name="value">2018-12-28</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">date</Definition>
+						<Definition name="label">交强险起保日期</Definition>
+						<Definition name="key">forceBeginDate</Definition>
+						<Definition name="value">2018-12-28</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+					</Tag>
+				</Tags>
+				<Tags type="force">
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">forcePremium</Definition>
+						<Definition name="label">交强险</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="premium">95000</Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">vehicleTaxPremium</Definition>
+						<Definition name="label">车船税</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="premium">180000</Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">thisYearSubmitted</Definition>
+						<Definition name="label">今年应缴</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="premium">1800.0</Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">lastYearSubmitted</Definition>
+						<Definition name="label">去年应缴</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="premium">0.0</Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">lateFee</Definition>
+						<Definition name="label">滞纳金</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="premium">0.0</Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">claimNum</Definition>
+						<Definition name="label">出险次数</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="premium">-4</Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">label</Definition>
+						<Definition name="key">forceTotalPremium</Definition>
+						<Definition name="label">交强险总保费</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="premium">275000</Definition>
+					</Tag>
+				</Tags>
+				<Tags type="lifeTableCpm">
+					<Tag>
+						<Definition name="type">hidden</Definition>
+						<Definition name="key">wx_id_meta</Definition>
+						<Definition name="label">监控id标识</Definition>
+						<Definition name="value">16173819</Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">hidden</Definition>
+						<Definition name="key">presentType</Definition>
+						<Definition name="label">投保礼或UN积分标识</Definition>
+						<Definition name="value">0</Definition>
+						<Definition name="premium"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">hidden</Definition>
+						<Definition name="key">presentVal</Definition>
+						<Definition name="label">投保礼或UN积分值</Definition>
+						<Definition name="value">26500</Definition>
+						<Definition name="premium"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">hidden</Definition>
+						<Definition name="key">hasAddPresent</Definition>
+						<Definition name="label">是否有加投</Definition>
+						<Definition name="value">0</Definition>
+						<Definition name="premium"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">hidden</Definition>
+						<Definition name="key">isShowAddPresentColumn</Definition>
+						<Definition name="label">加投是否显示列</Definition>
+						<Definition name="value">1</Definition>
+						<Definition name="premium"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">hidden</Definition>
+						<Definition name="key">isSubPremium</Definition>
+						<Definition name="label">是否勾选保费直减</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="premium"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">hidden</Definition>
+						<Definition name="key">singleIntegral</Definition>
+						<Definition name="label">逐单积分</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="premium"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">hidden</Definition>
+						<Definition name="key">isHXRequestTip</Definition>
+						<Definition name="label">页面提示</Definition>
+						<Definition name="value">0</Definition>
+						<Definition name="premium"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">hidden</Definition>
+						<Definition name="key">addIntegral</Definition>
+						<Definition name="label">加投积分</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="premium"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">hidden</Definition>
+						<Definition name="key">ubIntegral</Definition>
+						<Definition name="label">专属加投积分</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="premium"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">hidden</Definition>
+						<Definition name="key">DirectReductionPremium</Definition>
+						<Definition name="label">保费直减</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="premium"></Definition>
+					</Tag>
+				</Tags>
+				<Tags type="immevalid">
+					<Tag>
+						<Definition name="type">radio</Definition>
+						<Definition name="key">isImmevalid</Definition>
+						<Definition name="label">交强险是否及时生效</Definition>
+						<Definition name="value">0</Definition>
+						<Definition name="data">
+							<![CDATA[是:1;否:0]]>
+						</Definition>
+						<Definition name="dataUrl">
+							<![CDATA[]]>
+						</Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">select</Definition>
+						<Definition name="label">交强险生效时间(小时)</Definition>
+						<Definition name="key">immeValidHoursStart</Definition>
+						<Definition name="value">20</Definition>
+						<Definition name="data">
+							<![CDATA[20:20;21:21;22:22;23:23]]>
+						</Definition>
+					</Tag>
+				</Tags>
+				<Tags type="isSupportComReformFlag">
+					<Tag>
+						<Definition name="type">hidden</Definition>
+						<Definition name="key">isSupportComReform</Definition>
+						<Definition name="label">是否支持费改</Definition>
+						<Definition name="value">1</Definition>
+					</Tag>
+				</Tags>
+				<Tags type="telVerify">
+					<Tag>
+						<Definition name="type">hidden</Definition>
+						<Definition name="key">telVerify</Definition>
+						<Definition name="label"></Definition>
+						<Definition name="value"></Definition>
+					</Tag>
+				</Tags>
+				<Tags type="originType">
+					<Tag>
+						<Definition name="type">hidden</Definition>
+						<Definition name="key">originType</Definition>
+						<Definition name="label"></Definition>
+						<Definition name="value">null</Definition>
+					</Tag>
+				</Tags>
+				<Tags type="demandnoci">
+					<Tag>
+						<Definition name="type">hidden</Definition>
+						<Definition name="key">demandnoci</Definition>
+						<Definition name="label"></Definition>
+						<Definition name="value">01YGBX130018001545910072350126</Definition>
+					</Tag>
+				</Tags>
+				<Tags type="demandnobi">
+					<Tag>
+						<Definition name="type">hidden</Definition>
+						<Definition name="key">demandnobi</Definition>
+						<Definition name="label"></Definition>
+						<Definition name="value">V0101YGBX130018001545910077409</Definition>
+					</Tag>
+				</Tags>
+				<Tags type="businessType">
+					<Tag>
+						<Definition name="type">hidden</Definition>
+						<Definition name="key">businessType</Definition>
+						<Definition name="label"></Definition>
+						<Definition name="value">null</Definition>
+					</Tag>
+				</Tags>
+				<Tags type="repeatInsuTra">
+					<Tag>
+						<Definition name="type">hidden</Definition>
+						<Definition name="key">repeatInsuTra</Definition>
+						<Definition name="label"></Definition>
+						<Definition name="value"></Definition>
+					</Tag>
+				</Tags>
+				<Tags type="repeatInsuCom">
+					<Tag>
+						<Definition name="type">hidden</Definition>
+						<Definition name="key">repeatInsuCom</Definition>
+						<Definition name="label"></Definition>
+						<Definition name="value">null</Definition>
+					</Tag>
+				</Tags>
+				<Tags type="checkCode">
+					<Tag>
+						<Definition name="type">hidden</Definition>
+						<Definition name="key">checkCode</Definition>
+						<Definition name="label"></Definition>
+						<Definition name="value">null</Definition>
+					</Tag>
+				</Tags>
+				<Tags type="checkNo">
+					<Tag>
+						<Definition name="type">hidden</Definition>
+						<Definition name="key">checkNo</Definition>
+						<Definition name="label"></Definition>
+						<Definition name="value">null</Definition>
+					</Tag>
+				</Tags>
+				<Tags type="policyEmail">
+					<Tag>
+						<Definition name="type">select</Definition>
+						<Definition name="key">policyType</Definition>
+						<Definition name="label">商业保单形式:</Definition>
+						<Definition name="value">1</Definition>
+						<Definition name="data">
+							<![CDATA[电子保单:1;监制(纸质)保单:2]]>
+						</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">select</Definition>
+						<Definition name="key">policyType_tra</Definition>
+						<Definition name="label">交强保单形式:</Definition>
+						<Definition name="value">2</Definition>
+						<Definition name="data">
+							<![CDATA[电子保单:1;监制(纸质)保单:2]]>
+						</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">hidden</Definition>
+						<Definition name="key">orgID</Definition>
+						<Definition name="label">机构</Definition>
+						<Definition name="value">15</Definition>
+						<Definition name="data"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">hidden</Definition>
+						<Definition name="key">policyEmail</Definition>
+						<Definition name="label">保单邮箱</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="data"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">select</Definition>
+						<Definition name="key">invoiceType</Definition>
+						<Definition name="label">发票形式</Definition>
+						<Definition name="value">2</Definition>
+						<Definition name="data">
+							<![CDATA[电子发票:1;纸质发票:2]]>
+						</Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium"></Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">text</Definition>
+						<Definition name="key">invoiceCompanyName</Definition>
+						<Definition name="label">发票抬头</Definition>
+						<Definition name="value"></Definition>
+						<Definition name="data"></Definition>
+						<Definition name="dataUrl"></Definition>
+						<Definition name="checkUrl"></Definition>
+						<Definition name="premium"></Definition>
+					</Tag>
+				</Tags>
+				<Tags type="productCode">
+					<Tag>
+						<Definition name="type">hidden</Definition>
+						<Definition name="key">bizCode</Definition>
+						<Definition name="label">商业险代码</Definition>
+						<Definition name="value">0528</Definition>
+					</Tag>
+					<Tag>
+						<Definition name="type">hidden</Definition>
+						<Definition name="key">forceCode</Definition>
+						<Definition name="label">交强险代码</Definition>
+						<Definition name="value">0507</Definition>
+					</Tag>
+				</Tags>
+			</TagsList>
+		</Response>
+	</Package>
+</PackageList>
